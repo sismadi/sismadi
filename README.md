@@ -18,9 +18,16 @@
 
 ## Connect with me:  
 
+[![Google Scholar](https://img.icons8.com/color/100/google-scholar--v3.png)](https://scholar.google.com/citations?user=KkkcrZ4AAAAJ&hl=en)
+[![Wawan Sismadi](https://img.icons8.com/color/100/credly.png)](https://wawan.sismadi.com)
+[![Orcid](https://img.icons8.com/color/100/orcid.png)](https://orcid.org/0009-0007-2685-5663)
 [![Sinta](sinta.png)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496)
 [![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://www.linkedin.com/in/sismadi)
+[![Github](https://img.icons8.com/color/100/github--v1.png)](https://gihub.com/sismadi)
 [![Credly](https://img.icons8.com/color/100/credly.png)](https://www.credly.com/users/sismadi)
+[![Medium](https://img.icons8.com/color/100/medium-monogram.png)](https://medium.com/@sismadi)
+[![Dev.to](https://img.icons8.com/color/100/dev-to.png)](https://dev.to/sismadi)
+
 
 
 ## Languages and Tools:
