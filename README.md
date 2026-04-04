@@ -19,8 +19,7 @@
 ## Connect with me:  
 
 [![Google Scholar](https://img.icons8.com/color/100/google-scholar--v3.png)](https://scholar.google.com/citations?user=KkkcrZ4AAAAJ&hl=en)
-[![Wawan Sismadi](https://img.icons8.com/color/100/credly.png)](https://wawan.sismadi.com)
-[![Orcid](https://img.icons8.com/color/100/orcid.png)](https://orcid.org/0009-0007-2685-5663)
+[![Orcid](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0007-2685-5663)
 [![Sinta](sinta.png)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496)
 [![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://www.linkedin.com/in/sismadi)
 [![Github](https://img.icons8.com/color/100/github--v1.png)](https://gihub.com/sismadi)
