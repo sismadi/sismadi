@@ -1,30 +1,15 @@
-
-<!--
-
-## Hi there 👋
-
-**sismadi/sismadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi 👋, I'm Wawan Sismadi
 
-💻 Software Engineer from jakarta  
-🌱 Currently learning AI  
+💻 **Digital Solutions Architect** & **Software Engineer** from Jakarta  
+🎓 **Doctoral Student in Informatics** at Universitas Ahmad Dahlan  
+👨‍🏫 **Lecturer** at Universitas IPWIJA  
+🌐 **Portfolio:** [wawan.sismadi.com](https://wawan.sismadi.com)  
+🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) & [piawai.id (LMS)](https://piawai.id)  
+🌱 Currently working on **Hybrid Microservices & WebAssembly (Wasm)** research  
 👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
-💬 Ask me about JavaScript, WebAssably, SVG, JSON, Worker, PWA.  
+💬 Ask me about **JavaScript, WebAssembly, SVG, JSON, Worker, PWA**   
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
-⚡ Fun fact: Web developer and informatics lecturer    
+⚡ Fun fact: Web developer since 2002 and still passionate about clean code!
 
 ## Badge:
 
@@ -49,7 +34,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=default)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=default)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=visionary)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=visionary)
