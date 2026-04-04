@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💻 Software Engineer from jakarta  
 🌱 Currently learning AI  
 👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
-💬 Ask me about JavaScript, React, NodeJS  
+💬 Ask me about JavaScript, WebAssably, SVG, JSON, Worker, PWA.  
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
 ⚡ Fun fact: Web developer and informatics lecturer    
 
