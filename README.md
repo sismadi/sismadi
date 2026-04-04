@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:  
 
-[![Sinta](sinta.png)](https://sinta.kemdikbud.go.id/authors/profile/6848496)
+[![Sinta](sinta.png)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496)
 [![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://www.linkedin.com/in/sismadi)
 [![Credly](https://img.icons8.com/color/100/credly.png)](https://www.credly.com/users/sismadi)
 
