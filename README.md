@@ -25,9 +25,6 @@
 [![Github](https://img.icons8.com/color/100/github--v1.png)](https://gihub.com/sismadi)
 [![Credly](https://img.icons8.com/color/100/credly.png)](https://www.credly.com/users/sismadi)
 [![Medium](https://img.icons8.com/color/100/medium-monogram.png)](https://medium.com/@sismadi)
-[![Dev.to](https://img.icons8.com/color/100/dev-to.png)](https://dev.to/sismadi)
-
-
 
 ## Languages and Tools:
 
