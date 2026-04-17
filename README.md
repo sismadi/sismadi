@@ -4,12 +4,12 @@
 🎓 **Doctoral Student in Informatics** at Universitas Ahmad Dahlan  
 👨‍🏫 **Lecturer** at Universitas IPWIJA  
 🌐 **Portfolio:** [wawan.sismadi.com](https://wawan.sismadi.com)  
-🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) & [piawai.id (LMS)](https://piawai.id)  
+🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) & [piawai LMS](https://piawai.id)  
 🌱 Currently working on **Hybrid Microservices & WebAssembly (Wasm)** research  
 👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
 💬 Ask me about **JavaScript, WebAssembly, SVG, JSON, Worker, PWA**   
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
-⚡ Fun fact: Web developer since 2002 and still passionate about clean code!
+⚡ Fun fact: Web developer since 2006 and still passionate about clean code!
 
 ## Badge:
 
