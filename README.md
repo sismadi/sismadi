@@ -1,10 +1,10 @@
 # Hi 👋, I'm Wawan Sismadi
 
-💻 **Digital Solutions Architect** & **Software Engineer** from Jakarta  
-🎓 **Doctoral Student in Informatics** at Universitas Ahmad Dahlan  
 👨‍🏫 **Lecturer** at Universitas IPWIJA  
+💻 **Digital Solutions Architect** & **Software Engineer** ad PT Sismadi Langit Solusi  
+🎓 **Doctoral Student in Informatics** at Universitas Ahmad Dahlan  
 🌐 **Portfolio:** [wawan.sismadi.com](https://wawan.sismadi.com)  
-🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) & [piawai LMS](https://piawai.id)  
+🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) 
 🌱 Currently working on **Hybrid Microservices & WebAssembly (Wasm)** research  
 👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
 💬 Ask me about **JavaScript, WebAssembly, SVG, JSON, Worker, PWA**   
@@ -15,6 +15,7 @@
 
 [![Google Cloud Cybersecurity Certificate](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
 
+https://openbadgepassport.com/app/profile/334475
 
 ## Connect with me:  
 
