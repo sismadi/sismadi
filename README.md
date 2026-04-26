@@ -15,15 +15,15 @@
 
 [![Google Cloud Cybersecurity Certificate](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
 
-https://openbadgepassport.com/app/profile/334475
+https://openbadgepassport.com/app/profile/334475   
+https://orcid.org/0009-0007-2685-5663   
+
 
 ## Connect with me:  
 
 [![Google Scholar](https://img.icons8.com/color/100/google-scholar--v3.png)](https://scholar.google.com/citations?user=KkkcrZ4AAAAJ&hl=en)
-[![Orcid](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0007-2685-5663)
 [![Sinta](sinta.png)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496)
 [![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://www.linkedin.com/in/sismadi)
-[![Github](https://img.icons8.com/color/100/github--v1.png)](https://gihub.com/sismadi)
 [![Credly](https://img.icons8.com/color/100/credly.png)](https://www.credly.com/users/sismadi)
 [![Medium](https://img.icons8.com/color/100/medium-monogram.png)](https://medium.com/@sismadi)
 
