@@ -36,7 +36,9 @@ https://orcid.org/0009-0007-2685-5663
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=default)
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=visionary)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=visionary)
+
+
