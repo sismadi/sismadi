@@ -9,7 +9,7 @@
 ### 🧬 The Trifecta
 | 🔬 Doctoral Researcher | 🎓 Lecturer | 💻 Software Architect |
 | :--- | :--- | :--- |
-| **PhD Candidate** @ UAD | **Lecturer** @ IPWIJA | **Founder** @ PT Sismadi Langit Solusi |
+| **PhD Student** @ UAD | **Lecturer** @ IPWIJA | **Founder** @ PT Sismadi Langit Solusi |
 | Focus: Arch Optimization | Role: OOP & DB Systems | Project: [DonatJS](https://github.com/sismadi/donatjs) |
 
 <br>
