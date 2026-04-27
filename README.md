@@ -1,44 +1,43 @@
-# Hi 👋, I'm Wawan Sismadi
+# Hi, I'm Wawan Sismadi 👋
 
-👨‍🏫 **Lecturer** at Universitas IPWIJA  
-💻 **Digital Solutions Architect** & **Software Engineer** ad PT Sismadi Langit Solusi  
-🎓 **Doctoral Student in Informatics** at Universitas Ahmad Dahlan  
-🌐 **Portfolio:** [wawan.sismadi.com](https://wawan.sismadi.com)  
-🚀 **Featured Projects:** [DonatJS](https://github.com/sismadi/donatjs) 
-🌱 Currently working on **Hybrid Microservices & WebAssembly (Wasm)** research  
-👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
-💬 Ask me about **JavaScript, WebAssembly, SVG, JSON, Worker, PWA**   
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
-⚡ Fun fact: Web developer since 2006 and still passionate about clean code!
+> "I don't just study how systems should work. I teach it, then I build it."
 
-## Badge:
+### 🧬 The Trifecta
+| 🔬 Doctoral Researcher | 🎓 Lecturer | 💻 Software Architect |
+| :--- | :--- | :--- |
+| **PhD Candidate** @ UAD | **Lecturer** @ IPWIJA | **Founder** @ PT Sismadi Langit Solusi |
+| Focus: Arch Optimization | Role: OOP & DB Systems | Project: [DonatJS](https://github.com/sismadi/donatjs) |
 
-[![Google Cloud Cybersecurity Certificate](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
+---
 
-https://openbadgepassport.com/app/profile/334475   
-https://orcid.org/0009-0007-2685-5663   
+### 🛠️ Engineering & Research
+- 🚀 **Featured Project:** [DonatJS](https://github.com/sismadi/donatjs) — Lightweight, zero-dependency MVC for JSON-driven modules.
+- 🌱 **Current Research:** Hybrid Microservices & WebAssembly (Wasm) integration.
+- 💬 **Ask Me About:** `JavaScript`, `WebAssembly`, `SVG`, `JSON`, `Workers`, `PWA`.
+- ⚡ **Fun Fact:** Web developer since 2006, still passionate about clean code.
 
+### 📚 Professional Verified Badges
+<a href="https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url">
+  <img src="https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="80" alt="Cybersecurity Badge">
+</a>
+<a href="https://openbadgepassport.com/app/profile/334475">
+  <img src="https://img.shields.io/badge/Open--Badges-Verified-blue?style=flat-square&logo=archive" height="25">
+</a>
 
-## Connect with me:  
+---
 
-[![Google Scholar](https://img.icons8.com/color/100/google-scholar--v3.png)](https://scholar.google.com/citations?user=KkkcrZ4AAAAJ&hl=en)
-[![Sinta](sinta.png)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496)
-[![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://www.linkedin.com/in/sismadi)
-[![Credly](https://img.icons8.com/color/100/credly.png)](https://www.credly.com/users/sismadi)
-[![Medium](https://img.icons8.com/color/100/medium-monogram.png)](https://medium.com/@sismadi)
+### 📬 Connect & Verified Profiles
+| **Industry** | **Academic** | **Tech & Creative** |
+| :--- | :--- | :--- |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sismadi) | [![Scholar](https://img.shields.io/badge/Google--Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KkkcrZ4AAAAJ) | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sismadi) |
+| [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=about.me&logoColor=white)](https://wawan.sismadi.com) | [![SINTA](https://img.shields.io/badge/SINTA-6848496-00CCBB?style=flat-square)](https://sinta.kemdiktisaintek.go.id/authors/profile/6848496) | [![ORCID](https://img.shields.io/badge/ORCID-0000--0007--2685--5663-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-2685-5663) |
 
-## Languages and Tools:
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=default)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=default)
+### 📊 Modern Tech Stack & Stats
+![JS](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![Node](https://img.shields.io/badge/-Node.js-black?logo=node.js) ![React](https://img.shields.io/badge/-React-black?logo=react) ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=tokyonight&hide_border=true" height="150" />
+</p>
