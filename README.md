@@ -1,5 +1,4 @@
 # Hi, I'm Wawan Sismadi 👋
-
 <br>
 
 > "I don't just study how systems should work. I teach it, then I build it."
@@ -10,12 +9,33 @@
 | 🔬 Doctoral Researcher | 🎓 Lecturer | 💻 Software Architect |
 | :--- | :--- | :--- |
 | **PhD Student** @ UAD | **Lecturer** @ IPWIJA | **Founder** @ PT Sismadi Langit Solusi |
-| Focus: Arch Optimization | Role: OOP & DB Systems | Project: [DonatJS](https://github.com/sismadi/donatjs) |
+| Focus: Arch Optimization | Role: OOP & DB Systems | Project: [DonatJS](https://github.com/sismadi/donat-core) |
+
+<br>
+
+### 🗂️ Repository Index
+
+Repositori dikelompokkan berdasarkan prefix agar mudah ditelusuri sebagai bukti kompetensi keinsinyuran (rujukan asesmen [FAIP – PII](https://pii.or.id)):
+
+| Prefix | Kategori | Kompetensi yang Didukung |
+| :--- | :--- | :--- |
+| `donat-` `bayam-` `ktupad-` | Produk software (framework & aplikasi) | Perancangan & pengembangan arsitektur perangkat lunak |
+| `lab-` | Riset, benchmark, companion repo publikasi | Riset & inovasi keinsinyuran |
+| `app-` | Aplikasi klien @ PT Sismadi Langit Solusi | Penerapan praktik keinsinyuran di industri |
+| `ocw-` | Materi & bahan ajar (IPWIJA) | Transfer pengetahuan & pengajaran |
+| `tugas-` | Template praktikum mahasiswa (*use as template*) | Pembimbingan & pengembangan SDM |
+| `docs-` | Dokumentasi teknis & buku referensi | Diseminasi ilmu & publikasi |
+| `tools-` | Utility & automation internal | Efisiensi proses & praktik SDLC |
+| `faip-` | Arsip bukti kompetensi & CPD | Rekam jejak pengembangan profesional |
+| `site-` | Website personal & company | Branding & presensi digital |
+| `archive-` | Proyek non-aktif / arsip | — |
+
+> 🔎 Lihat seluruh repo per kategori: `github.com/sismadi?tab=repositories&q=lab-` (ganti prefix sesuai kebutuhan)
 
 <br>
 
 ### 🛠️ Engineering & Research
-- 🚀 **Featured Project:** [DonatJS](https://github.com/sismadi/donatjs) — Lightweight, zero-dependency MVC for JSON-driven modules.
+- 🚀 **Featured Product:** [DonatJS](https://github.com/sismadi/donat-core) — Lightweight, zero-dependency MVC for JSON-driven modules.
 - 🌱 **Current Research:** Hybrid Microservices & WebAssembly (Wasm) integration.
 - 💬 **Ask Me About:** `JavaScript`, `WebAssembly`, `SVG`, `JSON`, `Workers`, `PWA`.
 - ⚡ **Fun Fact:** Web developer since 2006, still passionate about clean code.
