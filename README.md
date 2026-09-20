@@ -5,11 +5,11 @@
 
 <br>
 
-### 🧬 The Trifecta
-| 🔬 Doctoral Researcher | 🎓 Lecturer | 💻 Software Architect |
-| :--- | :--- | :--- |
-| **PhD Student** @ UAD | **Lecturer** @ IPWIJA | **Founder** @ PT Sismadi Langit Solusi |
-| Focus: Arch Optimization | Role: OOP & DB Systems | Project: [DonatJS](https://github.com/sismadi/donat-core) |
+### 🧬 The Quadfecta
+| 🎓 Lecturer | 🔬 Doctoral Researcher | 🧭 Certified Assessor | 💻 Software Architect |
+| :--- | :--- | :--- | :--- |
+| **Lecturer** @ IPWIJA | **PhD Student** @ UAD | **BNSP Certified** — Asesor Kompetensi | **Founder** @ PT Sismadi Langit Solusi |
+| Asisten Ahli · OOP & DB Systems | Focus: Arch Optimization | Valid thru 2027 | Project: [DonatJS](https://github.com/sismadi/donat-core) |
 
 <br>
 
@@ -36,16 +36,13 @@ Repositori dikelompokkan berdasarkan prefix agar mudah ditelusuri sebagai bukti 
 
 ### 🛠️ Engineering & Research
 - 🚀 **Featured Product:** [DonatJS](https://github.com/sismadi/donat-core) — Lightweight, zero-dependency MVC for JSON-driven modules.
-- 🌱 **Current Research:** Hybrid Microservices & WebAssembly (Wasm) integration.
-- 💬 **Ask Me About:** `JavaScript`, `WebAssembly`, `SVG`, `JSON`, `Workers`, `PWA`.
+- 🌱 **Current Research:** Face detection & digital attendance validation (OpenCV.js vs face-api.js), household biodigester IP filings.
+- 💬 **Ask Me About:** `JavaScript`, `Software Architecture`, `Face Detection`, `Competency Assessment`, `Research Methodology`, `PWA`.
 - ⚡ **Fun Fact:** Web developer since 2006, still passionate about clean code.
 
 <br>
 
 ### 📚 Professional Verified Badges
-<a href="https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url">
-  <img src="https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="80" alt="Cybersecurity Badge">
-</a><br>
 <a href="https://openbadgepassport.com/app/profile/334475">
   <img src="https://img.shields.io/badge/Open--Badges-Verified-blue?style=flat-square&logo=archive" height="25">
 </a>
